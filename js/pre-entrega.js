@@ -47,3 +47,43 @@ function menu(opcion){
             break
     }
 }
+
+function cervezas(){
+ let seleccion = parseInt(prompt("Ingrese una eleccion de Cerveza:\n1) Brahma \n2) Quilmes \n3) Heineken \n4) Schneider \n5) Corona \n6) Salir "))
+ switch(seleccion){
+    case 1:
+        console.log("El stock de Brahma esta siendo revisado")
+        break
+    case 2:
+        console.log("El stock de Quilmes esta siendo revisado")
+        break
+    case 3:
+        console.log("El stock de Heineken esta siendo revisado")
+        break
+    case 4:
+        console.log("El stock de Schneider esta siendo revisado")
+        break
+    case 5:
+        console.log("El stock de Corona esta siendo revisado")
+        break
+    default:
+        console.log("Gracias por venir")
+        inicio()
+        break
+ }
+}
+
+function gaseosas(){
+ let seleccion = parseInt(prompt("Ingrese una eleccion de Cerveza:\n1) Brahma \n2) Quilmes \n3) Heineken \n4) Schneider \n5) Corona \n6) Salir "))
+    
+}
+
+function vinos(){
+ let seleccion = parseInt(prompt("Ingrese una eleccion de Cerveza:\n1) Brahma \n2) Quilmes \n3) Heineken \n4) Schneider \n5) Corona \n6) Salir "))
+    
+}
+.
+function vodka(){
+ let seleccion = parseInt(prompt("Ingrese una eleccion de Cerveza:\n1) Brahma \n2) Quilmes \n3) Heineken \n4) Schneider \n5) Corona \n6) Salir "))
+    
+}
