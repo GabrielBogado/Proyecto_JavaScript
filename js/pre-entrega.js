@@ -82,7 +82,7 @@ function vinos(){
  let seleccion = parseInt(prompt("Ingrese una eleccion de Cerveza:\n1) Brahma \n2) Quilmes \n3) Heineken \n4) Schneider \n5) Corona \n6) Salir "))
     
 }
-.
+
 function vodka(){
  let seleccion = parseInt(prompt("Ingrese una eleccion de Cerveza:\n1) Brahma \n2) Quilmes \n3) Heineken \n4) Schneider \n5) Corona \n6) Salir "))
     
