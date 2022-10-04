@@ -1,4 +1,3 @@
-debugger
 let nombre = ""
 let edad = ""
 
